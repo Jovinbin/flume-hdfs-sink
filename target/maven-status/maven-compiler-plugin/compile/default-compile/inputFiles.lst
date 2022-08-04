@@ -1,0 +1,17 @@
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\HDFSWriterFactory.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\SequenceFileSerializerType.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\HDFSSequenceFile.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\HDFSWriter.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\BucketWriter.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\AvroEventSerializer.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\ShiftController.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\HDFSCompressedDataStream.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\SequenceFileSerializerFactory.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\HDFSTextSerializer.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\KerberosUser.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\SequenceFileSerializer.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\BucketClosedException.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\AbstractHDFSWriter.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\HDFSEventSink.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\HDFSDataStream.java
+F:\myGit\flume-hdfs-sink\src\main\java\org\apache\flume\sink\hdfs\HDFSWritableSerializer.java

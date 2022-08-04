@@ -1,0 +1,16 @@
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\MyCustomSerializer.java
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\TestHDFSEventSink.java
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\HDFSTestSeqWriter.java
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\HDFSTestWriterFactory.java
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\MockHDFSWriter.java
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\TestHDFSCompressedDataStream.java
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\TestHDFSEventSinkDeadlock.java
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\MockFileSystem.java
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\HDFSBadDataStream.java
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\MockDataStream.java
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\TestAvroEventSerializer.java
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\MockFsDataOutputStream.java
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\TestHDFSEventSinkOnMiniCluster.java
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\TestSequenceFileSerializerFactory.java
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\TestBucketWriter.java
+F:\myGit\flume-hdfs-sink\src\test\java\org\apache\flume\sink\hdfs\TestUseRawLocalFileSystem.java
